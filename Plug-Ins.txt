@@ -1,0 +1,14 @@
+Prettier
+Path Intellisense
+
+ESLint - javascript problem solver
+
+Live Share
+
+
+
+Git:
+git add README.md 
+
+git commit -m "update README.md"
+git push
